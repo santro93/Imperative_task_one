@@ -111,8 +111,8 @@ The APK will be located in location:
 build/app/outputs/flutter-apk/app-release.apk
 
 ### Bonus Features
-Centralized internet check using BLoC
-Seamless dark/light mode support via BLoC
-Custom animations on Login screen
-Professional UI with reusable components
+Centralized internet check using Bloc
+Seamless dark/light mode support via Bloc.
+Custom animations on Login screen.
+Professional UI with reusable components.
 
