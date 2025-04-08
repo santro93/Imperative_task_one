@@ -89,7 +89,7 @@ Follow these steps to set up and run the Flutter project locally:
 
 ### 🔧 Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/santro93/Imperative_task_one.git
 cd your-repo-name
 ```
 
